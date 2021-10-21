@@ -6,4 +6,5 @@ Calculadora responsiva a celulares
 
 ✏️ - CSS3: Hover e Focus.
 
-<a href="https://leanluizz.github.io/Calculator/"> Link do layout
+
+Link do Layout: <a href="https://leanluizz.github.io/Calculator/"> Link do layout

@@ -34,7 +34,7 @@ main:focus{
     border: none;
     box-shadow: none;
     outline: none;
-    font-size: large;
+    font-size: 5pt;
     text-align: right;
     border-radius: 10px;
     text-overflow:hidden;

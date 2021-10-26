@@ -37,7 +37,7 @@ main:focus{
     font-size: large;
     text-align: right;
     border-radius: 10px;
-    word-wrap: break-word
+    text-overflow:hidden;
 }
 .operadores2{
     width: 70px;

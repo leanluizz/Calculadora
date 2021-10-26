@@ -2,7 +2,7 @@
 
 Calculadora responsiva a celulares
 
-🖩 - Calculadora feita com HTML-CSS e JavaScript (Eventos DOM (Onload,Onclick e MouseDown)) 
+🖩 - Calculadora feita com HTML-CSS e JavaScript (Eventos DOM (Onload,Onclick e MouseEnter)) 
 
 ✏️ - CSS3: Hover e Focus.
 

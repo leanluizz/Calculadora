@@ -38,6 +38,7 @@ main:focus{
     text-align: right;
     border-radius: 10px;
     text-overflow:hidden;
+    word-wrap: break-word;
 }
 .operadores2{
     width: 70px;

@@ -1,5 +1,5 @@
 
-@media(max-width:2000px){
+
     
 body{
     background-image: url(estrelasbrilhando.gif);
@@ -102,4 +102,4 @@ main:focus{
     font-size: 16pt;
     border-radius: 10px;
 }
-}
+

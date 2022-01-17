@@ -1,10 +1,9 @@
 # Calculator
 
-Calculadora responsiva a celulares
+Responsive calculator for mobiles
 
-🖩 - Calculadora feita com HTML-CSS e JavaScript (Eventos DOM (Onload,Onclick e MouseEnter)) 
+🖩 - Calculator made with HTML-CSS and JavaScript (DOM Events (Onload, Onclick and MouseEnter))
 
-✏️ - CSS3: Hover e Focus.
+✏️ - CSS3: Hover and Focus.
 
-
-Link do Layout: <a href="https://leanluizz.github.io/Calculator/"> Link do layout
+Layout link: <a href="https://leanluizz.github.io/Calculator/">link

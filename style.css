@@ -16,8 +16,8 @@ main{
 main:hover,
 main:focus{
     transition: transform 1s;
-    transform: translateX(0) scale(1.2);
-    box-shadow: black 5px 10px 10px 5px;
+    transform: translateX(0) scale(1.1);
+    box-shadow: black 5px 5px 5px 5px;
 }
 .title{
     margin-top: 50px;

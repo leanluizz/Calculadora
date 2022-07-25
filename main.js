@@ -27,7 +27,7 @@ function Calc()
     var result = document.getElementById('result').innerHTML;
     if(result)
     {
-        document.getElementById('result').innerHTML = eval(resultado);
+        document.getElementById('result').innerHTML = eval(result);
     }
     else
     {

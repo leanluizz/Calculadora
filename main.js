@@ -1,37 +1,37 @@
 
-function insert(num){
-    var numero = document.getElementById("resultado").innerHTML;
-    document.getElementById('resultado').innerHTML = numero + num; 
+function Insert(num){
+    var number = document.getElementById("result").innerHTML;
+    document.getElementById('result').innerHTML = number + num; 
    
 };
 
-function apagar(){
-    document.getElementById('resultado').innerHTML = "";
+function Delete(){
+    document.getElementById('result').innerHTML = "";
 }
     
-function mudaCor(){
-    document.getElementById('resultado').style.fontFamily = 'arial';
-    document.getElementById('resultado').style.fontSize = '30px';
-    document.getElementById('resultado').style.color = 'white';	
+function ChangeColor(){
+    document.getElementById('result').style.fontFamily = 'arial';
+    document.getElementById('result').style.fontSize = '30px';
+    document.getElementById('result').style.color = 'white';	
 	 }
     
     
-function raizQuadrada(){
-    res = split(document.getElementById('resultado'));
-     resultado = parseInt(res / 2)
-     resultado.innerHTML = res
+function SquareRoot(){
+    res = split(document.getElementById('result'));
+     result = parseInt(res / 2)
+     result.innerHTML = res
 }
 
-function calcular()
+function Calc()
 {
-    var resultado = document.getElementById('resultado').innerHTML;
-    if(resultado)
+    var result = document.getElementById('result').innerHTML;
+    if(result)
     {
-        document.getElementById('resultado').innerHTML = eval(resultado);
+        document.getElementById('result').innerHTML = eval(resultado);
     }
     else
     {
-        document.getElementById('resultado').innerHTML = 'Tente novamente'
+        document.getElementById('result').innerHTML = 'Try Again'
     }
     
     

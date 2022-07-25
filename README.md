@@ -10,7 +10,7 @@ Responsive calculator for mobiles
 
 Example site:
 
-<img src="https://raw.githubusercontent.com/leanluizz/Calculator/main/Calculator/assets/image/Photo-landing-page-calculator.png" alt="Landing-page-calculator" width="50%">
+<img src="https://raw.githubusercontent.com/leanluizz/Calculator/main/assets/image/Photo-landing-page-calculator.png" alt="Landing-page-calculator" width="50%">
 
 
 

@@ -1,6 +1,8 @@
 # Calculadora
 
-## Calculadora básica é um dos meus primeiros projetos FrontEnd pra treinar eventos DOM
+## Introdução 
+
+Calculadora básica é um dos meus primeiros projetos FrontEnd pra treinar eventos DOM
 
 ## Tecnologias usadas:
 
